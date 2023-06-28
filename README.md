@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, hope you're doing great. I'm Abraham an Software Developer Professional looking to help the company grow with my experience and knowledge. Here's some of my work. 👋
 
 <!--
 **AbrahamDeveloper/abrahamdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
